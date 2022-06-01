@@ -3,3 +3,9 @@ Vínculo: dirección IPv6 local. . . : fe80::1992:aa30:21ee:2c38%9
 Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.167
 Máscara de subred . . . . . . . . . . . . : 255.255.255.0
 1/6/2022 19:37 
+-----------------------------------------------------------------
+Sposaro Matias
+Vínculo: dirección IPv6 local. . . : fe80::a54b:d097:df98:9d14%7
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.91
+Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+1/6/2022 19:42
