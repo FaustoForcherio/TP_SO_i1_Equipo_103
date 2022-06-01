@@ -11,3 +11,5 @@ c-¿Si BETA agrega un archivo los demás integrantes lo ven?
 d-¿De qué forma se comunicaron ustedes?
 - Por medio de discord y whatsapp.
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+-La mejor forma para comunicarnos dentro de github es mediante la pestaña proyects
+ya que es muy organizada y facil de usar.
